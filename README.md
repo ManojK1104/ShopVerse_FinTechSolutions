@@ -1,5 +1,4 @@
-<img width="1367" height="805" alt="Screenshot 2026-06-24 190127" src="https://github.com/user-attachments/assets/4087aa8d-1e97-4e2f-ae7e-ae6fdb9b2c53" />
-# 📊 Shopverse Fintech – Power BI Analytics Dashboard
+s# 📊 Shopverse Fintech – Power BI Analytics Dashboard
 
 > **"Shop. Save. Grow."** — A comprehensive financial analytics dashboard built for Shopverse Fintech to monitor transactions, revenue, fraud patterns, and strategic business performance.
 
