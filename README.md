@@ -57,7 +57,7 @@ The dashboard consists of **4 tabs**:
 
 ### 📌 Page 1 – Overview
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard]"overview (1).png"
 
 **Key Metrics (KPI Cards):**
 | Metric | Value |
