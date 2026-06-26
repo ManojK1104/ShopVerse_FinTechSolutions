@@ -1,4 +1,4 @@
-s# 📊 Shopverse Fintech – Power BI Analytics Dashboard
+📊 Shopverse Fintech – Power BI Analytics Dashboard
 
 > **"Shop. Save. Grow."** — A comprehensive financial analytics dashboard built for Shopverse Fintech to monitor transactions, revenue, fraud patterns, and strategic business performance.
 
