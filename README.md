@@ -57,7 +57,7 @@ The dashboard consists of **4 tabs**:
 
 ### 📌 Page 1 – Overview
 
-<img width="1328" height="792" alt="overview (1)" src="https://github.com/user-attachments/assets/3ff59b51-5274-4aac-ae71-e27df25f17b6" />
+<img width="700" height="500" alt="overview (1)" src="https://github.com/user-attachments/assets/3ff59b51-5274-4aac-ae71-e27df25f17b6" />
 
 
 **Key Metrics (KPI Cards):**
