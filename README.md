@@ -1,3 +1,4 @@
+<img width="1367" height="805" alt="Screenshot 2026-06-24 190127" src="https://github.com/user-attachments/assets/4087aa8d-1e97-4e2f-ae7e-ae6fdb9b2c53" />
 # 📊 Shopverse Fintech – Power BI Analytics Dashboard
 
 > **"Shop. Save. Grow."** — A comprehensive financial analytics dashboard built for Shopverse Fintech to monitor transactions, revenue, fraud patterns, and strategic business performance.
@@ -81,7 +82,8 @@ The dashboard consists of **4 tabs**:
 
 ### 📌 Page 2 – Methods
 
-![Methods Dashboard](screenshots/methods.png)
+<img width="200" height="150" alt="Screenshot 2026-06-24 190127" src="https://github.com/user-attachments/assets/2072921e-1a4a-453c-b9d5-88d437ac7c23" />
+
 
 **Visuals Included:**
 - **Donut Chart** – Sum of net revenue by `customer_segment` (SME: 18.02M, Corporate: 17.98M, Retail: 17.95M)
@@ -93,7 +95,9 @@ The dashboard consists of **4 tabs**:
 
 ### 📌 Page 3 – SWOT Analysis
 
-![SWOT Analysis](screenshots/swot_analysis.png)
+<img width="200" height="150<img width="1337" height="796" alt="Screenshot 2026-06-24 190152" src="https://github.com/user-attachments/assets/0226668c-310f-4911-aed4-9d74a279bb14" />
+" alt="Screenshot 2026-06-24 190140" src="https://github.com/user-attachments/assets/a8963563-06f7-44c4-8d53-bce706a8d915" />
+
 
 A strategic SWOT framework for **Shopverse Fintech**:
 
@@ -133,7 +137,8 @@ A strategic SWOT framework for **Shopverse Fintech**:
 
 ### 📌 Page 4 – RCA Fishbone (Root Cause Analysis)
 
-![RCA Fishbone](screenshots/rca_fishbone.png)
+<img width="200" height="150" alt="Screenshot 2026-06-24 190152" src="https://github.com/user-attachments/assets/35126a95-9456-4cf0-9fc6-81e0cbba9d2a" />
+
 
 **Problem Statement:**  
 > *Why are transactions resulting in 33% success, 33% pending, and 33% failed?*
