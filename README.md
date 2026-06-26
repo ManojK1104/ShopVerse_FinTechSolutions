@@ -158,8 +158,6 @@ A strategic SWOT framework for **Shopverse Fintech**:
 33% SUCCESS  |  33% PENDING  |  33% FAILED
 ```
 
----
-
 ## 🛠️ Tools & Technologies
 
 | Tool | Usage |
@@ -170,24 +168,6 @@ A strategic SWOT framework for **Shopverse Fintech**:
 | Excel / CSV | Source data |
 
 ---
-
-## 📁 Project Structure
-
-```
-shopverse-fintech-dashboard/
-│
-├── 📊 ShopverseFintech.pbix        # Power BI file
-├── 📁 screenshots/
-│   ├── overview.png
-│   ├── methods.png
-│   ├── swot_analysis.png
-│   └── rca_fishbone.png
-├── 📁 data/
-│   └── shopverse_data.csv          # Source dataset
-└── 📄 README.md
-```
-
-
 
 ## 📊 Key Insights
 
