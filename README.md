@@ -94,8 +94,8 @@ The dashboard consists of **4 tabs**:
 
 ### 📌 Page 3 – SWOT Analysis
 
-<img width="200" height="150<img width="1337" height="796" alt="Screenshot 2026-06-24 190152" src="https://github.com/user-attachments/assets/0226668c-310f-4911-aed4-9d74a279bb14" />
-" alt="Screenshot 2026-06-24 190140" src="https://github.com/user-attachments/assets/a8963563-06f7-44c4-8d53-bce706a8d915" />
+<img width="200" height="150" alt="Screenshot 2026-06-24 190140" src="https://github.com/user-attachments/assets/673d9411-fb3f-457f-859b-0a91454a728e" />
+
 
 
 A strategic SWOT framework for **Shopverse Fintech**:
