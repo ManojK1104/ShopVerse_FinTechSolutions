@@ -194,7 +194,7 @@ shopverse-fintech-dashboard/
 **[Manoj kushwaha]**
 Data Analyst | Power BI Developer
 📧 manojrkushwaha85@gmail.com
-🔗 Github=ManojK1104
+🔗 ManojK1104
 
 ---
 
