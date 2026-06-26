@@ -203,13 +203,4 @@ shopverse-fintech-dashboard/
 ## 👤 Author ManojKushwaha
  [GitHub](https://github.com/ManojK1104)
 
----
 
-## 📄 License
-
-This project is for educational and portfolio purposes.  
-© 2026 Shopverse Fintech Dashboard — All rights reserved.
-
----
-
-> ⭐ If you found this project useful, please consider giving it a star!
