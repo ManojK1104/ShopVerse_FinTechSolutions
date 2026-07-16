@@ -57,7 +57,8 @@ The dashboard consists of **4 tabs**:
 
 ### 📌 Page 1 – Overview
 
-<img width="300" height="270" alt="Screenshot 2026-07-13 232930" src="https://github.com/user-attachments/assets/79dc7750-a9bb-47f3-b04b-f4ffbc8ba0c8" />
+<img width="300" height="270" alt="Screenshot 2026-07-16 185645" src="https://github.com/user-attachments/assets/2f8e742a-67d4-493d-bf52-1d092608d59f" />
+
 
 
 
@@ -81,7 +82,8 @@ The dashboard consists of **4 tabs**:
 ---
 
 ### 📌 Page 2 – Methods
-<img width="300" height="270" alt="Screenshot 2026-07-13 233700" src="https://github.com/user-attachments/assets/4be030c0-819a-43a0-9f33-158b4c84c2fa" />
+<img width="300" height="270" alt="Screenshot 2026-07-16 185702" src="https://github.com/user-attachments/assets/3ec8a7d7-b088-44ae-9465-6c707ab73a1a" />
+
 
 
 
@@ -94,10 +96,7 @@ The dashboard consists of **4 tabs**:
 ---
 
 ### 📌 Page 3 – SWOT Analysis
-<img width="300" height="270" alt="Screenshot 2026-07-13 232953" src="https://github.com/user-attachments/assets/56f5d124-a674-45cb-af17-a72ad0475f64" />
-
-
-
+<img width="300" height="270" alt="Screenshot 2026-07-16 185714" src="https://github.com/user-attachments/assets/7a2e2545-ec7f-43ec-a375-1ebdda0352a9" />
 
 
 A strategic SWOT framework for **Shopverse Fintech**:
@@ -138,7 +137,8 @@ A strategic SWOT framework for **Shopverse Fintech**:
 
 ### 📌 Page 4 – RCA Fishbone (Root Cause Analysis)
 
-<img width="300" height="270" alt="Screenshot 2026-07-13 233004" src="https://github.com/user-attachments/assets/71259dab-3d90-4077-a93d-e38c58e93f74" />
+<img width="300" height="270" alt="Screenshot 2026-07-16 185725" src="https://github.com/user-attachments/assets/bac32fe6-dad3-4fb1-b328-43ef62caff95" />
+
 
 
 
